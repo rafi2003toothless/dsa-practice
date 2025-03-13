@@ -1,0 +1,7 @@
+*.exe
+.vscode
+.cph
+test
+unsolved
+test.cpp
+test.c
